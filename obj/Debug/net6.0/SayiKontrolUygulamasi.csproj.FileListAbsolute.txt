@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\bin\Debug\net6.0\SayiKontrolUygulamasi.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\bin\Debug\net6.0\SayiKontrolUygulamasi.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\bin\Debug\net6.0\SayiKontrolUygulamasi.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\bin\Debug\net6.0\SayiKontrolUygulamasi.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\bin\Debug\net6.0\SayiKontrolUygulamasi.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\refint\SayiKontrolUygulamasi.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\SayiKontrolUygulamasi.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SayiKontrolUygulamasi\obj\Debug\net6.0\ref\SayiKontrolUygulamasi.dll
